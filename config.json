@@ -1,3 +1,5 @@
 {
-    "token": "your-bot-token-here"
+    "token": "your-bot-token-here",
+    "clientId": "1335659991662592020",
+    "guildId": "1108034319844397176"
 }
